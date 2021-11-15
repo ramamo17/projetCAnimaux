@@ -1,0 +1,15 @@
+#monde de test avec petite Beauce
+Monde 100 100 #hauteur largeur
+Beauce 38 24 10 10 #position du coin superieur gauche de la Beauce puis sa hauteur largeur
+Energie Nourriture 100 #gain d'energie si de la nourriture est mangee
+Seuil Reproduction 600 #seuil d'energie a partir duquel un animal se duplique
+
+#animaux, un par ligne
+(25 150) 2 598 | 5 5 5 5 5 5 5 5 | #position (x,y) initiale de l'animal, direction initiale ..
+(23 1) 5 151 | 1 1 1 1 0 1 1 1 | #position (x,y) initiale de l'animal, direction initiale ..
+(7 4356) 3 139 | 1 1 0 1 0 2 0 1 | #position (x,y) initiale de l'animal, direction initiale ..
+(133 337) 1 139 | 1 1 0 1 0 1 0 1 | #position (x,y) initiale de l'animal, direction initiale ..
+(23 332) 0 149 | 1 1 1 1 0 1 0 1 | #position (x,y) initiale de l'animal, direction initiale ..
+(23 332) 0 149 | 1 1 1 1 0 1 0 1 | #position (x,y) initiale de l'animal, direction initiale ..
+(79 333) 7 299 | 1 1 1 1 0 1 1 1 | #position (x,y) initiale de l'animal, direction initiale ..
+(248 42) 3 152 | 1 1 1 1 1 1 1 1 | #position (x,y) initiale de l'animal, direction initiale ..
